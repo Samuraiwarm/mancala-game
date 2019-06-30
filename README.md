@@ -17,6 +17,7 @@ Requires python3
 ```
 
 Player 1 can choose 0,1,2
+
 Player 2 can choose 4,5,6
 
 # Rules
